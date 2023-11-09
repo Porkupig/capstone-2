@@ -1,0 +1,124 @@
+.headline {
+    background-color: #141e46;
+}
+
+.left-dragon {
+    padding-left: 20%;
+}
+
+.right-dragon {
+    padding-left: 20%;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+.hero {
+    background-color: #FFF5E0;
+    padding: 75px;
+}
+
+.profile-pic {
+    height: 150px;
+    border-radius: 50%;
+}
+
+.hero-p {
+    font-family: 'Libre Baskerville', serif;
+    color: #141e46;
+}
+
+.resume {
+    background-color: #FFF5E0;
+    padding: 0;
+}
+
+.card {
+    background-color: #FFF5E0;
+    border: none;
+}
+
+.card-img-top {
+    height: 250px;
+    width: 300px;
+    align-self: center;
+
+}
+
+.card-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.25rem;
+    color: #FF6969;
+}
+
+.card-text {
+    font-family: 'Libre Baskerville', serif;
+    color: #141e46;
+}
+
+h1 {
+    color: #C70039;
+    font-family: 'Lancelot', serif;
+    font-size: 4rem;
+}
+
+h2 {
+    color: #FFF5E0;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 1.25rem;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #FF6969;
+}
+
+hr {
+    border: dotted #FF6969 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.portfolio {
+    background-color: #FFF5E0;
+    padding: 0;
+}
+
+.portfolio-p {
+    color: #141e46;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.carousel {
+    width: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+.contact {
+    background-color: #FFF5E0;
+    padding: 0;
+}
+
+.footer {
+    background-color: #141e46;
+    margin: 0;
+}
+
+.footer-text {
+    color: #FFF5E0;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.btn {
+    background-color: #C70039;
+    color: #FFF5E0;
+}
+
+.btn:hover {
+    background-color: #141e46;
+    color: #FFF5E0;
+}
